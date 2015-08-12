@@ -1,7 +1,7 @@
 # LaserMarioBlocks
 Laser cut mario blocks with coins 
 
-![Mario Block with coins](https://raw.github.com/funvill/LaserMarioBlocks/blob/master/BlocksAndCoins.png)
+![Mario Block with coins](https://raw.github.com/funvill/LaserMarioBlocks/master/BlocksAndCoins.png)
 
 Instructions 
 ------
